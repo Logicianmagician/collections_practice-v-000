@@ -29,6 +29,6 @@ end
 
 def sum_array(array)
   sum = 0
-  array.each { |i| sum += num}
+  array.each { |i| sum += i}
   sum
 end
