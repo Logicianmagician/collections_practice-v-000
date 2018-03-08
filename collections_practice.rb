@@ -26,3 +26,10 @@ end
 def find_a(array)
   array.find_all {|i| i[0] == "a"}
 end
+
+def sum_array(array)
+  sum = 0
+  array.each { |i| sum += num}
+end
+sum
+end
